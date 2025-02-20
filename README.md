@@ -6,7 +6,10 @@ Tohle je projekt kam ukládám svoje projekty.
 
 ## SPOLUAUTOŘI
 
-biblecampvictim6969
-Osama-Legend
-DRsalt450
-ZOZO-Hacker
+https://github.com/biblecampvictim6969
+
+https://github.com/Osama-Legend
+
+https://github.com/DRsalt450
+
+https://github.com/ZOZO-Hacker
